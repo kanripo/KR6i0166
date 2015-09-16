@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 申日兒本經
+#+DATE: 2015-08-30 20:11:39.815772
+#+PROPERTY: JUAN 0
